@@ -1,0 +1,178 @@
+/* Style de mes articles pour la page single */
+.content {
+    margin: 20px 70px;
+}
+
+.single-header {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.post-meta {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.entry-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.entry-summary {
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.post-thumbnail img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.related-posts {
+    margin-top: 40px;
+}
+
+.recent-posts-thumbnails {
+    display: flex;
+    justify-content: space-between;
+}
+
+.recent-post-thumbnail {
+    width: 30%;
+    text-align: center;
+}
+
+.recent-post-thumbnail img {
+    max-width: 100%;
+    height: auto;
+}
+
+.recent-post-thumbnail p {
+    margin-top: 10px;
+    font-size: 1em;
+}
+
+
+.btn--primary:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 1px solid #ba9e66 !important;
+    background: #ba9e66;
+    z-index: -1;
+}
+.btn:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 1px solid rgba(102, 102, 102, .2);
+    background: rgba(0, 0, 0, 0);
+    z-index: -1;
+}
+
+/* Style de mes articles pour la page single-chateaux */
+.entry-title-chateaux {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.post-thumbnail-chateaux {
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.post-thumbnail-chateaux img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.overlay-chateaux {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.078), rgb(0, 0, 0));
+    text-align: center;
+}
+
+.post-title-chateaux {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.discover-button-chateaux {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid white;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background: transparent;
+    transition: all 0.3s ease;
+}
+
+.discover-button-chateaux:hover {
+    background: #ba9e66;
+    border-color: #ba9e66;
+}
+
+.related-posts-chateaux {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.related-posts-chateaux h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.container-chateaux {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.post-column-chateaux {
+    width: 30%;
+    text-align: center;
+}
+
+.post-column-chateaux .post-thumbnail-chateaux {
+    margin-bottom: 10px;
+}
+
+.post-column-chateaux .post-title-chateaux {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+
+.post-column-chateaux .post-title-chateaux a {
+    text-decoration: none;
+    color: #333;
+}
+
+.post-column-chateaux .post-title-chateaux a:hover {
+    color: #ba9e66;
+}

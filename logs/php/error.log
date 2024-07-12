@@ -1,0 +1,710 @@
+[04-Jul-2024 08:24:29 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[04-Jul-2024 08:25:17 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[04-Jul-2024 08:39:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[04-Jul-2024 10:18:45 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\functions.php on line 18
+[04-Jul-2024 10:18:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[04-Jul-2024 10:18:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[04-Jul-2024 11:52:18 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\functions.php on line 17
+[04-Jul-2024 11:52:19 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\functions.php on line 17
+[04-Jul-2024 12:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function image_principale_accueil() in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:14
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 14
+[04-Jul-2024 12:21:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function image_principale_accueil() in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:14
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 14
+[04-Jul-2024 12:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function image_principale_accueil() in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:14
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 14
+[04-Jul-2024 12:22:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function image_principale_accueil() in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:14
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 14
+[05-Jul-2024 09:48:25 UTC] PHP Warning:  Undefined variable $header_title in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 26
+[05-Jul-2024 09:50:12 UTC] PHP Warning:  Undefined variable $header_title in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 15
+[05-Jul-2024 14:15:33 UTC] PHP Warning:  Undefined variable $header_title in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php on line 30
+[05-Jul-2024 14:36:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php:16
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#3 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php on line 16
+[05-Jul-2024 14:53:41 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\single.php on line 6
+[05-Jul-2024 14:53:53 UTC] PHP Parse error:  syntax error, unexpected token "class" in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\single.php on line 6
+[05-Jul-2024 14:54:17 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\single.php on line 44
+[05-Jul-2024 14:54:20 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\single.php on line 44
+[11-Jul-2024 11:46:38 UTC] PHP Warning:  Undefined variable $header_logo in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php on line 23
+[11-Jul-2024 11:47:00 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php on line 24
+[11-Jul-2024 11:48:29 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php on line 24
+[11-Jul-2024 11:48:31 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php on line 24
+[11-Jul-2024 11:51:02 UTC] PHP Warning:  Undefined variable $header_logo in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 30
+[11-Jul-2024 11:51:02 UTC] PHP Warning:  Undefined variable $header_logo in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 30
+[11-Jul-2024 12:05:46 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:29
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 29
+[11-Jul-2024 12:05:49 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:29
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 29
+[11-Jul-2024 12:07:47 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:29
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 29
+[11-Jul-2024 12:09:47 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:29
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 29
+[11-Jul-2024 12:09:49 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:29
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 29
+[11-Jul-2024 12:09:55 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:29
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 29
+[11-Jul-2024 12:13:38 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php:29
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(1): get_header()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\header.php on line 29
+[11-Jul-2024 12:35:29 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:11
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 11
+[11-Jul-2024 12:35:42 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:11
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 11
+[11-Jul-2024 12:36:42 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:14
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 14
+[11-Jul-2024 12:37:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:11
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 11
+[11-Jul-2024 12:40:50 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:11
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 11
+[11-Jul-2024 12:41:26 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:11
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 11
+[11-Jul-2024 12:41:48 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:11
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 11
+[11-Jul-2024 12:44:18 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:12
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 12
+[11-Jul-2024 12:44:41 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:12
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 12
+[11-Jul-2024 12:45:49 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:12
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 12
+[11-Jul-2024 12:45:51 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:12
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 12
+[11-Jul-2024 12:46:40 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:12
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 12
+[11-Jul-2024 14:20:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\single.php(103): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:20:54 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:22:22 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:23:40 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:23:50 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:24:08 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:24:28 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:28:43 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:28:55 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:30:23 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(57): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:36:19 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:36:30 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:36:35 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:43:32 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:46:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:46:35 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:46:56 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:53:05 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:53:15 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:53:23 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 14:53:36 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[11-Jul-2024 15:00:32 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 07:56:39 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 07:58:59 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 09:14:18 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 09:14:34 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 09:14:39 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 09:14:47 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 11:35:43 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 11:54:39 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 13:03:50 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 13:03:57 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 13:04:05 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 13:35:42 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 14:03:09 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(59): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 14:03:24 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 14:05:33 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(58): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 14:09:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(97): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
+[12-Jul-2024 14:10:22 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php:13
+Stack trace:
+#0 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Utilis...', true, Array)
+#2 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\front-page.php(97): get_footer()
+#4 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Utilis...')
+#5 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Utilis...')
+#6 C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\index.php(17): require('C:\\Users\\Utilis...')
+#7 {main}
+  thrown in C:\Users\Utilisateur\Local Sites\chateau-visite\app\public\wp-content\themes\chateau\footer.php on line 13
